@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Manu (@selgrim)
-- 👀 I’m interested in [Linux](https://archlinux.org), [Python](https://www.python.org), [Rust](https://github.com/rust-lang/rust), [Darktable](https://github.com/darktable-org/darktable)... among many other things.
+- 👀 I’m interested in <a href="https://archlinux.org"><img height="16" width="16" src="https://cdn.simpleicons.org/archlinux" /> Linux</a>,
+  <a href="https://www.python.org"><img height="16" width="16" src="https://cdn.simpleicons.org/python" /> Python</a>,
+  <a href="https://github.com/rust-lang/rust"><img height="16" width="16" src="https://cdn.simpleicons.org/rust/0/ffffff" /> Rust</a>,
+  [Darktable](https://github.com/darktable-org/darktable)... among many other things.
 - 🌱 I’m currently learning [Rust](https://doc.rust-lang.org/book/).
 
 <!---
