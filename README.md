@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manu (@selgrim)
+# 👋 Hi, I’m Manu (@selgrim)
 - 🌱 I’m currently learning/programming in <a href="https://doc.rust-lang.org/book/">
   <img height="16" width="16" hspace="2" src="https://cdn.simpleicons.org/rust/0/ffffff" />Rust</a>.
 - 👀 Some interests, among many other, and in no special order:<br />
