@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manu (@selgrim)
-- 👀 I’m interested in [Linux](https://archlinux.org), [Python](https://www.python.org) and [Rust](https://www.rust-lang.org/).
+- 👀 I’m interested in [Linux](https://archlinux.org), [Python](https://www.python.org), [Rust](https://github.com/rust-lang/rust), [Darktable](https://github.com/darktable-org/darktable)... among many other things.
 - 🌱 I’m currently learning [Rust](https://doc.rust-lang.org/book/).
 
 <!---
